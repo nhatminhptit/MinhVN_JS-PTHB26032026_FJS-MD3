@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 import PricingCard from "./PricingCard";
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <>
       <h1 style={{ textAlign: "center" }}>Bảng Giá Dịch Vụ SaaS</h1>
