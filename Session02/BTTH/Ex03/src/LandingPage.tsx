@@ -36,7 +36,7 @@ export default function LandingPage() {
           </label>
           <input
             type="email"
-            ref={emailInputRef} // Gắn tham chiếu (ref) vào phần tử DOM này
+            ref={emailInputRef}
             placeholder="VD: name@example.com"
             style={{ padding: "10px", width: "300px", fontSize: "16px" }}
           />
@@ -57,7 +57,6 @@ export default function LandingPage() {
         }}
       >
         <h3>Nội dung chi tiết...</h3>
-        {/* <p>(Giả lập khoảng trống để tạo thanh cuộn - Scroll down 👇)</p> */}
       </section>
 
       <section
