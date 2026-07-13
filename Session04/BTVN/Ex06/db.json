@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "fullName": "Nguyễn Văn A (PUT)",
+      "phone": "0111222333",
+      "email": "nva.cntt@example.com",
+      "address": "Hà Nội",
+      "dob": "2005-10-15",
+      "gender": "Nam",
+      "department": "Công nghệ Thông tin",
+      "position": "Thực tập sinh",
+      "salary": 5000000,
+      "id": "1"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
