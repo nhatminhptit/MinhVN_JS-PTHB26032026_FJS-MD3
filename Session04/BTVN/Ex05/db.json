@@ -1,0 +1,15 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "phone": "0987654321"
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị B",
+      "phone": "0912345678"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
